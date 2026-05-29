@@ -1,0 +1,49 @@
+# 🖥️ Archivos generados por macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# 🛠️ Carpetas de build y dependencias
+node_modules/
+dist/
+build/
+.cache/
+coverage/
+
+# 🔒 Archivos de entorno
+.env
+.env.local
+
+# 🧪 Logs y temporales
+*.log
+*.tmp
+*.swp
+
+# 🎨 Archivos intermedios de CSS/JS
+*.css.map
+*.js.map
+*.scssc
+
+# 🧵 Editores
+.vscode/
+.idea/
+
+# 🗂️ Carpeta de recursos temporales (si la usás)
+assets/tmp/
+assets/originals/
+
+# 🐛 Archivos de depuración o trazas
+npm-debug.log*
+
+# 🧼 Archivos ocultos innecesarios
+*.sublime-workspace
+*.sublime-project
+
+# otros Archivos oculto
+/privado.txt

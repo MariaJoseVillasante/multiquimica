@@ -1,0 +1,81 @@
+/*--------------------------------------------------------------
+# Global Sections
+--------------------------------------------------------------*/
+section,
+.section {
+  color: var(--default-color);
+  background-color: var(--background-color);
+  padding: 60px 0;
+  scroll-margin-top: 100px;
+  overflow: clip;
+}
+
+@media (max-width: 1199px) {
+
+  section,
+  .section {
+    scroll-margin-top: 66px;
+  }
+}
+
+/*--------------------------------------------------------------
+# Global Section Titles
+--------------------------------------------------------------*/
+.section-title {
+  text-align: center;
+  padding-bottom: 60px;
+  position: relative;
+
+  h2 {
+    font-size: 32px;
+    font-weight: 700;
+    position: relative;
+
+    &:before,
+    &:after {
+      content: '';
+      width: 50px;
+      height: 2px;
+      background: var(--accent-color);
+      display: inline-block;
+    }
+
+    &:before {
+      margin: 0 15px 10px 0;
+    }
+
+    &:after {
+      margin: 0 0 10px 15px;
+    }
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+@import './sections/_hero.scss';
+@import './sections/_call-to-action.scss';
+@import './sections/_call-to-action-2.scss';
+@import './sections/_nosotros.scss';
+@import './sections/_logistica.scss';
+@import './sections/_productos.scss';
+@import './sections/_tips-y-consejos.scss';
+@import './sections/_trabaja-con-nosotros.scss';
+@import './sections/_contacto.scss';
+@import './sections/_producto1.scss';
+@import './sections/_producto2.scss';
+@import './sections/_producto3.scss';
+@import './sections/_producto4.scss';
+@import './sections/_producto5.scss';
+@import './sections/_producto6.scss';
+@import './sections/_producto7.scss';
+@import './sections/_producto8.scss';
+@import './sections/_producto9.scss';
+@import './sections/_producto10.scss';
+@import './sections/_producto11.scss';
+@import './sections/_producto12.scss';
+@import './sections/_producto13.scss';
+@import './sections/_producto14.scss';
+@import './sections/_producto15.scss';
+@import './sections/_producto-v2.scss';
