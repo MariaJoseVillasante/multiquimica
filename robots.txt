@@ -1,8 +1,5 @@
 User-agent: *
 Allow: /
 
-# Permite acceso a este archivo específico
-Allow: /llms.txt
-
 # Mapa del sitio
 Sitemap: https://mariajosevillasante.github.io/multiquimica/sitemap.xml
