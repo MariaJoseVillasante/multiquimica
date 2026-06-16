@@ -46,4 +46,4 @@ npm-debug.log*
 *.sublime-project
 
 # otros Archivos oculto
-/privado.txt
+/privado.txt.DS_Store
