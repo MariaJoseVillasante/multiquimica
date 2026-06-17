@@ -12,13 +12,13 @@
         <loc>https://mariajosevillasante.github.io/multiquimica/nosotros.html</loc>
         <lastmod>2026-06-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.80</priority>
+        <priority>0.60</priority>
     </url>
     <url>
         <loc>https://mariajosevillasante.github.io/multiquimica/logistica.html</loc>
         <lastmod>2026-06-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.80</priority>
+        <priority>0.60</priority>
     </url>
     <url>
         <loc>https://mariajosevillasante.github.io/multiquimica/productos.html</loc>
@@ -30,16 +30,22 @@
         <loc>https://mariajosevillasante.github.io/multiquimica/tips-y-consejos.html</loc>
         <lastmod>2026-06-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.80</priority>
+        <priority>0.60</priority>
     </url>
     <url>
         <loc>https://mariajosevillasante.github.io/multiquimica/trabaja-con-nosotros.html</loc>
         <lastmod>2026-06-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.80</priority>
+        <priority>0.60</priority>
     </url>
     <url>
         <loc>https://mariajosevillasante.github.io/multiquimica/contacto.html</loc>
+        <lastmod>2026-06-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos.html</loc>
         <lastmod>2026-06-05</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.80</priority>
