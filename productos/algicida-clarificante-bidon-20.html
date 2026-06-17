@@ -50,7 +50,19 @@
   <!-- Main CSS File -->
   <link href="../assets/css/main.css" rel="stylesheet">
 
-  <!-- schema.org -->
+  <!-- Schema de empresa -->
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Organization",
+    "name":"Multiquímica",
+    "url":"https://mariajosevillasante.github.io/multiquimica/",
+    "logo":"https://mariajosevillasante.github.io/multiquimica/assets/img/logos/logo-transparente.png",
+    "description":"Empresa logística dedicada a la distribución de productos químicos.",
+    "areaServed":"Chile"
+  }
+  </script>
+  <!-- schema Product -->
   <script type="application/ld+json">
   {
     "@context":"https://schema.org",
@@ -61,7 +73,11 @@
       "name":"Multiquímica"
     },
     "image":"https://mariajosevillasante.github.io/multiquimica/assets/img/productos/algicida-clarificante-3.webp",
-    "description":"Agicida clarificante, producto para la eliminación y control de algas presentes en piscinas, con aguas duras o blandas."
+    "description":"Agicida clarificante, producto para la eliminación y control de algas presentes en piscinas, con aguas duras o blandas.",
+    "manufacturer":{
+      "@type":"Organization",
+      "name":"Multiquímica"
+    }
   }
   </script>
 
