@@ -146,6 +146,88 @@
         <changefreq>monthly</changefreq>
         <priority>0.80</priority>
     </url>
-    
+
+    <!-- imágenes -->
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/algicida-clarificante-bidon-20.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/algicida-clarificante-bidon-20.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/algicida.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/algicida-para-piscinas.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/articulos-mantencion-piscina.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/articulos-mantencion-piscina.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/baja-ph.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/baja-Ph-1kg.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/cloro-granulado-56.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/cloro-granulado-56.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/cloro-granulado-60.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/cloro-granulado-60.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/cloro-granulado-90.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/cloro-granulado-90.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/cloro-liquido-5.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/cloro-liquido-5-h.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/cloro-liquido-concentrado-10-granel.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/cloro-liquido-granel-10.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/cloro-tabletas-20.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/cloro-tabletas-20.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/cloro-tabletas-200.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/cloro-tabletas-200.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/cloro-tabletas-multiaccion-200.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/cloro-tabletas-200-tripleaccion.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/decantador.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/decantador-piscina.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/sal-industrial.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/sal-lavavajillas.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/sube-ph.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/sube-ph-piscina.webp</image:loc></image:image>
+    </url>
+    <url>
+        <loc>https://mariajosevillasante.github.io/multiquimica/productos/sulfato-cobre.html</loc>
+        <image:image>
+        <image:loc>https://mariajosevillasante.github.io/multiquimica/assets/img/productos/sulfato-cobre-1kg.webp</image:loc></image:image>
+    </url>
+
 
 </urlset>
