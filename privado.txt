@@ -4,3 +4,10 @@ Generated Using BootstrapMade Builder
 
 para fotos:
 https://squoosh.app/
+
+Linkedin inspector:
+https://www.linkedin.com/post-inspector/?utm_source=chatgpt.com
+
+Google Rich Result Test:
+https://search.google.com/test/rich-results
+
