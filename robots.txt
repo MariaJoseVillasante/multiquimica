@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Mapa del sitio
-Sitemap: https://mariajosevillasante.github.io/multiquimica/sitemap.xml
+Sitemap: https://multiquimica.cl/sitemap.xml
