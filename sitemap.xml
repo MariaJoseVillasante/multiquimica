@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset 
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
     <url>
         <loc>https://multiquimica.cl/</loc>
@@ -151,82 +153,98 @@
     <url>
         <loc>https://multiquimica.cl/productos/algicida-clarificante-bidon-20.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/algicida-clarificante-bidon-20.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/algicida-clarificante-bidon-20.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/algicida.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/algicida-para-piscinas.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/algicida-para-piscinas.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/articulos-mantencion-piscina.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/articulos-mantencion-piscina.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/articulos-mantencion-piscina.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/baja-ph.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/baja-Ph-1kg.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/baja-Ph-1kg.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/cloro-granulado-56.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/cloro-granulado-56.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/cloro-granulado-56.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/cloro-granulado-60.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/cloro-granulado-60.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/cloro-granulado-60.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/cloro-granulado-90.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/cloro-granulado-90.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/cloro-granulado-90.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/cloro-liquido-5.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/cloro-liquido-5-h.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/cloro-liquido-5-h.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/cloro-liquido-concentrado-10-granel.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/cloro-liquido-granel-10.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/cloro-liquido-granel-10.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/cloro-tabletas-20.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/cloro-tabletas-20.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/cloro-tabletas-20.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/cloro-tabletas-200.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/cloro-tabletas-200.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/cloro-tabletas-200.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/cloro-tabletas-multiaccion-200.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/cloro-tabletas-200-tripleaccion.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/cloro-tabletas-200-tripleaccion.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/decantador.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/decantador-piscina.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/decantador-piscina.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/sal-industrial.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/sal-lavavajillas.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/sal-lavavajillas.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/sube-ph.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/sube-ph-piscina.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/sube-ph-piscina.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://multiquimica.cl/productos/sulfato-cobre.html</loc>
         <image:image>
-        <image:loc>https://multiquimica.cl/assets/img/productos/sulfato-cobre-1kg.webp</image:loc></image:image>
+            <image:loc>https://multiquimica.cl/assets/img/productos/sulfato-cobre-1kg.webp</image:loc>
+        </image:image>
     </url>
 
 
