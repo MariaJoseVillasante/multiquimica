@@ -23,12 +23,6 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <priority>0.60</priority>
     </url>
     <url>
-        <loc>https://multiquimica.cl/productos.html</loc>
-        <lastmod>2026-06-05</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.80</priority>
-    </url>
-    <url>
         <loc>https://multiquimica.cl/tips-y-consejos.html</loc>
         <lastmod>2026-06-05</lastmod>
         <changefreq>monthly</changefreq>
@@ -205,7 +199,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <priority>0.50</priority>
     </url>
 
-        <url>
+    <url>
         <loc>https://multiquimica.cl/assets/documentos/HDS-dicloro-de-sodio-56.pdf</loc>
         <lastmod>2026-06-30</lastmod>
         <changefreq>yearly</changefreq>
