@@ -1,5 +1,9 @@
 User-agent: *
 Allow: /
+Allow: /llms.txt
 
 # Mapa del sitio
 Sitemap: https://multiquimica.cl/sitemap.xml
+
+# Archivo de contexto para modelos de lenguaje
+# https://multiquimica.cl/llms.txt
