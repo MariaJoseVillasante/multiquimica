@@ -11,3 +11,6 @@ https://www.linkedin.com/post-inspector/?utm_source=chatgpt.com
 Google Rich Result Test:
 https://search.google.com/test/rich-results
 
+
+Para comprimir CSS:
+/usr/local/bin/sass assets/scss/main.scss assets/css/main.min.css --style=compressed
