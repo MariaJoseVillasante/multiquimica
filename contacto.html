@@ -217,23 +217,26 @@
           <div class="col-lg-8">
             <form action="https://formsubmit.co/9ff00d107c761655fa0da9c9ae58b3e6" method="POST" role="form" class="php-email-form">
               <div class="row">
+                <div class="form-group mt-3">
+                  <label for="name" class="visually-hidden">Nombre</label>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Tu Nombre" autocomplete="name" required>
+                </div>
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Tu Nombre" required="">
+                  <label for="fono" class="visually-hidden">Teléfono</label>
+                  <input type="tel" class="form-control" name="fono" id="fono" placeholder="Tu Fono" autocomplete="tel" required>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Tu Email" required="">
+                  <label for="email" class="visually-hidden">Correo electrónico</label>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Tu Email" autocomplete="email" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" required="">
+                <label for="subject" class="visually-hidden">Asunto</label>
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" placeholder="Mensaje" required=""></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+                <label for="message" class="visually-hidden">Mensaje</label>
+                <textarea class="form-control" name="message" id="message" placeholder="Mensaje" required></textarea>
               </div>
               <div class="text-center"><button type="submit">Enviar Mensaje</button></div>
             </form>
