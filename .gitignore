@@ -47,3 +47,6 @@ npm-debug.log*
 
 # otros Archivos oculto
 /privado.txt.DS_Store
+
+# Archivo auxiliar privado: conservar solo en el equipo y respaldo privado
+/privado.txt
