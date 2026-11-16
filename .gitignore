@@ -45,8 +45,9 @@ npm-debug.log*
 *.sublime-workspace
 *.sublime-project
 
-# otros Archivos oculto
-/privado.txt.DS_Store
+# Documentación interna local: requiere respaldo privado fuera de GitHub
+/AGENTS.md
+/docs/
 
 # Archivo auxiliar privado: conservar solo en el equipo y respaldo privado
 /privado.txt
